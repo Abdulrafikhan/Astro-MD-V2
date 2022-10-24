@@ -1,5 +1,5 @@
 {
-  "name": "Astro-MD V2",
+  "name": "khan baba",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/edm-official/whatsapp-base",
   "logo": "",
@@ -9,7 +9,20 @@
 "ALIVE_MSG" :{
     "description" : "alive message",
     "required" : true,
-  "value" : "Alive now"
+  "value" : "Alive now KHAN  BABA  FAST  SERVIC  M  WELCOME
+
+
+
+03448869139
+03258342598
+
+MY  CONTACT
+
+
+DP   CHEK  KRNA  LAZIME   
+
+
+KHAN  BABA  NAME  E  KAFI    A  50  HZR  BET  LAGNA  WALU  K  LEA  OR  CHMOCHO K  LEA"
     },
  "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session ",
@@ -34,37 +47,37 @@
 "FOOTER" :{
     "description" : "Footer Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "៚khan baba〽️"
 },
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "៚khan baba〽️"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+44 7441 466940"
+  "value" : "+92 326 5242765"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
     "required" : true,
-  "value" : "*📥 ඔබේ ගීතය Download කරමින් පවතී...*"
+  "value" : "*📥 Download ...*"
 },
         "SONG_UP" :{
     "description" : "Song uploading txt",
     "required" : true,
-  "value" : "*📤 ඔබේ ගීතය Upload කරමින් පවතී...*"
+  "value" : "*📤 Upload ..... *"
 },
             "VIDEO_DOWN" :{
     "description" : "video down txt",
     "required" : true,
-  "value" : "*📥 ඔබේ වීඩියෝව Download කරමින් පවතී...*"
+  "value" : "*📥 Download ...*"
 },
                 "VIDEO_UP" :{
     "description" : "video up txt",
     "required" : true,
-  "value" : "*📤 ඔබේ වීඩියෝව Upload කරමින් පවතී...*"
+  "value" : "*📤 Upload ...*"
 },
                         "FILE_DOWN" :{
     "description" : "video up txt",
@@ -79,7 +92,7 @@
                         "CAPTION" :{
     "description" : " caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 khan baba*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
